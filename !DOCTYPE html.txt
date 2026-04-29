@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>The Bear</title>
+
+</head>
+
+<body>
+
+
+
+  <h1>The Bear</h1>
+
+
+
+  <img src="bear.jpg" alt="Bear Image">
+
+
+
+  <p>
+
+    The brown bear is a large bear species found across Eurasia and North America. 
+
+    In North America, the populations of brown bears are called grizzly bears.
+
+  </p>
+
+
+
+  <h3>Characteristics</h3>
+
+  <ul>
+
+    <li>Large fur</li>
+
+    <li>Powerful claws</li>
+
+    <li>Omnivorous diet</li>
+
+  </ul>
+
+
+
+  <h3>Types of Bears</h3>
+
+  <ol>
+
+    <li>Brown Bear</li>
+
+    <li>Polar Bear</li>
+
+    <li>Black Bear</li>
+
+  </ol>
+
+
+
+  <p>
+
+    For more information, <a href="https://en.wikipedia.org/wiki/Brown_bear">Click here</a> to visit the Wiki page.
+
+  </p>
+
+
+
+</body>
+
+</html>
