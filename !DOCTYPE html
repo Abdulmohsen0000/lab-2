@@ -18,9 +18,10 @@
 
 
 
-  <img src="bear.jpg" alt="Bear Image">
+<img src="bear.jpg" alt="Bear Image" width="400">
 
-
+<h2>Diet</h2>
+<p>Brown bears are omnivores. They eat fish, berries, and plants.</p>
 
   <p>
 
